@@ -1,0 +1,19 @@
+___________________Time Complexity and Space Complexity___________________
+
+1.Time Complexity
+Time complexity is the number of operations needed to run an algorithm on large amounts of data. And the number of operations can be considered as time because the computer uses some time for each operation.
+
+i.Big Oh (O) :- 
+-In mathematics, Big O notation is used to describe the upper bound of a function.
+-In computer science, Big O notation is used more specifically to find the worst case time complexity for an algorithm.
+-Big O notation uses a capital letter O with parenthesis O(), and inside the parenthesis there is an expression that indicates the algorithm runtime. Runtime is usually expressed using n, which is the number of values in the data set the algorithm is working on.
+
+"A function f(n) is said to be O(gn) if and only if their exist a constant c and a constant n such that
+O<=f(n)<=c.g(n) all belong to n>=n0" 
+
+ii.Big Theta(θ) :-
+-Big Theta (Θ) notation gives an exact bound, meaning:
+    The algorithm’s running time (or space) is both upper-bounded and lower-bounded by a specific function for sufficiently large inputs.
+
+iii.Big Omega(Ω) :-
+-Big Omega (Ω) tells us the minimum time or space required by an algorithm for all input sizes nn, especially for large inputs.

@@ -1,0 +1,17 @@
+1.Data Structure :- A data structure is a format that defines how data is stored, organized, and processed in a computer system.
+
+2.Algorithm :- Set or sequence of instructions that do a specific task.
+
+3.DataBase :- A database is a structured , organized  collection of data that can be easily accessed and managed.
+
+4.DataWarehouse :- A data warehouse is a system that stores and organizes large amounts of structured and semi-structured data from multiple sources.
+
+5.Big Data :- Big data is a term used to describe large and complex sets of data that are difficult to manage and analyze using traditional data processing tools.
+
+A normal RAM(Random Access Memory) memory has mainly 4 segments:-
+i.code segment              ii.stack                iii. Heap           iv.Data segment
+
+i.code segment :-Also known as the text segment, this stores the compiled program code, functions, and constants
+ii.stack :- Stores local variables and function call information in a last-in, first-out (LIFO) structure. The stack is used for passing arguments to functions. 
+iii.Heap :- Dynamically allocated memory that's managed by functions like malloc() and free(). The heap is shared by all shared libraries and dynamically loaded modules in a process. 
+iv.Data segment :- Stores initialized global and static variables with explicit starting values.
